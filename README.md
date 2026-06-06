@@ -62,12 +62,15 @@ yang dapat ditindaklanjuti oleh manajemen.
 ---
 
 ## 📁 Struktur File
-├── notebook_analisis.ipynb   # Notebook utama (cleaning + EDA + insight)
-├── dashboard_final.png       # Dashboard ringkasan 4 chart
-├── chart1_distribusi.png     # Chart distribusi gagal bayar
-├── chart2_employment.png     # Chart jenis pekerjaan
-├── chart3_ltv.png            # Chart LTV vs gagal bayar
-├── chart4_usia.png           # Chart usia vs gagal bayar
+
+```text
+├── notebook_analisis.ipynb       # Notebook utama (cleaning + EDA + insight)
+├── dashboard_final.png           # Dashboard ringkasan 4 chart
+├── chart1_distribusi.png         # Chart distribusi gagal bayar
+├── chart2_employment.png         # Chart jenis pekerjaan
+├── chart3_ltv.png                # Chart LTV vs gagal bayar
+├── chart4_usia.png               # Chart usia vs gagal bayar
 ├── chart5_skorkreditdefault.png  # Chart skor kredit
 ├── LICENSE
 └── README.md
+```
